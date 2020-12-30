@@ -19,7 +19,6 @@ To provide a systematic medicine inventory.
 ![Review1](https://user-images.githubusercontent.com/55496505/103344609-19f5b080-4ab5-11eb-98e1-be2680b247df.jpg)
 # Functionalities
 ![reiew2](https://user-images.githubusercontent.com/55496505/103367802-fe59cc80-4aeb-11eb-9214-83b8b4237a95.png)
-![reiew2](https://user-images.githubusercontent.com/55496505/103367955-5e507300-4aec-11eb-88db-4d12e533403d.png)
-
+![Picture1](https://user-images.githubusercontent.com/55496505/103368054-9eaff100-4aec-11eb-8d16-eb3e90991356.png)
 
 
