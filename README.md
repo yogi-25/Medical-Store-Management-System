@@ -18,4 +18,6 @@ To provide a systematic medicine inventory.
 # Modules
 ![Review1](https://user-images.githubusercontent.com/55496505/103344609-19f5b080-4ab5-11eb-98e1-be2680b247df.jpg)
 # Functionalities
+![reiew2](https://user-images.githubusercontent.com/55496505/103367802-fe59cc80-4aeb-11eb-9214-83b8b4237a95.png)
+
 
